@@ -1,3 +1,2 @@
 This is common code.
-We're now making some changes to it.
-Now we're making more changes.
+Editing common code again.
